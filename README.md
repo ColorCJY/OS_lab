@@ -1,6 +1,6 @@
 # OS_lab
 
-操作系统作业
+操作系统作业(环境Ubuntu+vscode)
 
 project1:[initial-utilities/wcat and wzip](https://github.com/remzi-arpacidusseau/ostep-projects/tree/master/initial-utilities)
 
