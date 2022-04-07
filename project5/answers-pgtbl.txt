@@ -1,0 +1,2 @@
+问题：使用此共享页面可以更快地进行哪些其他 xv6 系统调用？解释如何。
+答案：我们认为`fstat()`也可以做得更快。我们可以在 `strcut ussyscall` 中添加 `struct fstat` 并直接从 `struct usyscall` 中检索它。
